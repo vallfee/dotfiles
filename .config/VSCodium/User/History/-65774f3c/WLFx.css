@@ -1,0 +1,18 @@
+* {
+    all:unset;
+    font-family: "Ioseva Nerd Font Propo", monospace;
+}
+window#waybar {
+    background-color: #343434;
+    color:  #ffa362;
+    border-radius: 0 0 10px 10px;
+}
+#workspaces{
+    min-width: 100px;
+    font-size: 0.4rem;
+    padding: 2px 4px ;
+    margin: 11px 0 ;
+    border-radius: 99px;
+}
+
+

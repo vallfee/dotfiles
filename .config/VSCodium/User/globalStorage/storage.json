@@ -1,0 +1,102 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "7d6962277ff454d5ff583d18b479428d83664440c7f0b28860692d54ce77d4ec",
+    "telemetry.devDeviceId": "ed402d28-3902-49b6-b1e3-4516b6aef8fd",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/vallfee/.config/quickshell"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/vallfee/.config/hypr": "__default__profile__",
+            "file:///home/vallfee/.config/waybar": "__default__profile__",
+            "file:///home/vallfee/.config/rofi": "__default__profile__",
+            "file:///etc/xdg/swaync": "__default__profile__",
+            "file:///home/vallfee/.config/swaync": "__default__profile__",
+            "file:///home/vallfee/.config/quickshell": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#121314",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#bfbfbf",
+            "background": "#121314",
+            "editorBackground": "#121314",
+            "titleBarBackground": "#191a1b",
+            "titleBarBorder": "#2a2b2c",
+            "activityBarBackground": "#191a1b",
+            "activityBarBorder": "#2a2b2c",
+            "sideBarBackground": "#191a1b",
+            "sideBarBorder": "#2a2b2c",
+            "statusBarBackground": "#191a1b",
+            "statusBarBorder": "#2a2b2c",
+            "statusBarNoFolderBackground": "#191a1b"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 277,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/vallfee/.config/quickshell",
+            "backupPath": "/home/vallfee/.config/VSCodium/Backups/49057564f6bae4c1be9b94f8488c35a4",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 0,
+                "width": 632,
+                "height": 352
+            }
+        },
+        "openedWindows": []
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 277,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "dbb65c5bc95f15e4499ad14508c20e9e": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "5ca93c83248c395675624a0580f6fb8d": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "0fc3e89c3154a304408ddb892690c376": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "3849b66f7fa14e77da416818236d6485": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "10319164ef62273f7d6c0decdc975b39": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "48a8b35830bd94baa21435f345f1b062": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,2 @@
+
+qs -p $HOME/Playground/new-qs &

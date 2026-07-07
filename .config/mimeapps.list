@@ -1,0 +1,6 @@
+[Added Associations]
+video/mp4=firefox.desktop;
+text/plain=vim.desktop;
+
+[Default Applications]
+text/plain=vim.desktop

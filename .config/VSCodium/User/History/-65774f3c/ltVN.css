@@ -1,0 +1,10 @@
+* {
+    all:unset;
+    font-family: "Ioseva Nerd Font Propo", monospace;
+}
+window#waybar {
+    background-color: #343434;
+    color:  #ffa362;
+}
+
+

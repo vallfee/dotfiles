@@ -1,0 +1,19 @@
+{
+  "port": 1443,
+  "host": "127.0.0.1",
+  "dc_ip": [
+    "2:149.154.167.220",
+    "4:149.154.167.220"
+  ],
+  "verbose": false,
+  "check_updates": true,
+  "log_max_mb": 5,
+  "buf_kb": 256,
+  "pool_size": 4,
+  "cfproxy": true,
+  "cfproxy_user_domain": [],
+  "cfproxy_worker_domain": [],
+  "ws_keepalive_interval": 30,
+  "secret": "1d29e93a210243328fbb91c2e140ec2c",
+  "language": "ru"
+}

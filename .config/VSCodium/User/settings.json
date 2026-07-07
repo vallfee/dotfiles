@@ -1,0 +1,8 @@
+{
+    "editor.fontFamily": "'JetBrainsMono Nerd Font Propo','icomon feather',Droid Sans Mono', monospace",
+    "qt-qml.qmlls.useQmlImportPathEnvVar": true,
+    "workbench.editorAssociations": {
+        "{git,gitlens,chat-editing-snapshot-text-model,copilot,git-graph,git-graph-3}:/**/*.qrc": "default",
+        "*.qrc": "qt-core.qrcEditor"
+    }
+}
