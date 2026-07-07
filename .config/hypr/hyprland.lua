@@ -1,5 +1,5 @@
 -- CachyOS Hyprland Configuration
-
+-- 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
 require("config.animations")
 require("config.autostart")
 require("config.colors")
